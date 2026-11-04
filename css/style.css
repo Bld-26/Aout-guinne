@@ -59,17 +59,34 @@ button:hover{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 2rem;
 }
 
 .section_identité{
-    width: 60vh;
-    height: 30vh;
+    width: 40vw;
+    height: 35vh;
     background-color: aliceblue;
     border-radius: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease; 
+
+}
+
+.section_identité:hover{
+    transform: scale(1.1); 
+
 }
 
 .h3_identité{
     background-color: aliceblue;
-    
+    font-size: 1.5rem;
+
+}
+
+.lien_histoire{
+    background-color: aliceblue;
+    color: rgb(128, 141, 70);
 }
