@@ -35,17 +35,41 @@ h1{
 
 }
 
+a{
+    text-decoration: none; /*enlève les tirès du bas des lien*/
+}
+
 button{
     
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: background-color 0.8s ; 
+    transition: background-color 0.8s ;
+    
 
 }
 
 button:hover{
     background-color: #3a4d5a;
     transform: translate(0.5rem)
+    
+}
+
+.main_identité{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.section_identité{
+    width: 60vh;
+    height: 30vh;
+    background-color: aliceblue;
+    border-radius: 1rem;
+}
+
+.h3_identité{
+    background-color: aliceblue;
     
 }
