@@ -90,3 +90,9 @@ button:hover{
     background-color: aliceblue;
     color: rgb(128, 141, 70);
 }
+
+.secttion_bouton_p1{
+    margin-top: 2vh;
+    justify-content: center;
+    align-items: center;
+}
