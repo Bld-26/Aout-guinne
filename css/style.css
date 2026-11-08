@@ -37,21 +37,31 @@ h1{
 
 a{
     text-decoration: none; /*enlève les tirès du bas des lien*/
+    background-color: transparent;
+
+}
+
+
+button a:hover{
+    background-color: transparent;
+    color: white;
 }
 
 button{
     
-    display: flex;
+    display: inline-flex;
+    width: max-content;
+    padding: 0.2rem;
     justify-content: center;
     align-items: center;
     transition: background-color 0.8s ;
-    
-
+    border-radius: 2rem;
 }
 
 button:hover{
-    background-color: #3a4d5a;
-    transform: translate(0.5rem)
+    background-color: #3a4d5a85;
+    transform: scale(1.03);
+    transition: transform 1.2s;
     
 }
 
@@ -93,6 +103,7 @@ button:hover{
 
 .secttion_bouton_p1{
     margin-top: 2vh;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
