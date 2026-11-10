@@ -96,7 +96,7 @@ button:hover{
 
 }
 
-.lien_histoire{
+.lien_histoire, .lien_geographie, .lien_culture{
     background-color: aliceblue;
     color: rgb(128, 141, 70);
 }
