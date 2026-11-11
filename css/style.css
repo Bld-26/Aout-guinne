@@ -24,6 +24,15 @@ h1{
     background-color: rgb(164, 169, 173);
 }
 
+img{
+    transition: transform 0.7s;
+}
+
+img:hover{
+    
+    transform: scale(0.948);
+}
+
 .drapeaux_gunne{
     margin-top:2vh;
     height: 70vh;
