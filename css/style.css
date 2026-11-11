@@ -131,14 +131,38 @@ button:hover{
     justify-content: center;
 }
 
-.section_sstatu_culture{
+.section_image_p_culture{
     display: flex;
     justify-content: flex-start;
     align-items: center;
     height: 55vh;
+    flex-wrap: wrap;
+    gap:1rem;
 }
 
 .img_statue_culture{
     width: 20vw;
     height: 50vh;
+    flex-grow: 1;
+}
+
+.img_statue_mosque_faysal{
+    width: 20vw;
+    height: 50vh;
+    order: 1;
+    flex-grow: 2;
+
+}
+
+.img_cuture{
+    width: 20vw;
+    height: 50vh;
+    display: flex;
+    flex-grow: 1;
+}
+
+.section_bouton_retour_aceil{
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
 }
