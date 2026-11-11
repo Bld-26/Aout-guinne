@@ -119,3 +119,14 @@ button:hover{
     width: 50vw;
     height: 70vh;
 }
+
+.img_geo{
+    width: 50vw;
+    height: 70vh;
+}
+
+.section_img_geo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
