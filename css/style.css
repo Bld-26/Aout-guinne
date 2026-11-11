@@ -130,3 +130,15 @@ button:hover{
     flex-direction: row;
     justify-content: center;
 }
+
+.section_sstatu_culture{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 55vh;
+}
+
+.img_statue_culture{
+    width: 20vw;
+    height: 50vh;
+}
