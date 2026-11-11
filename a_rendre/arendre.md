@@ -10,6 +10,33 @@
 3. Fichiers avec l'historique des commits: 
 
 ## Historique des commit:
+commit a892350a356d1f1a68bef4800964b0e57062f78d
+Author: Bld-26 <alpha.bld@eduge.ch>
+Date:   2026-11-11 15:59:31 +0100
+
+    ajoue de la transition sur les image
+
+ css/style.css | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 01b475ab1e04b5709f8fbafeb18e0f691f537f86
+Author: Bld-26 <alpha.bld@eduge.ch>
+Date:   2026-11-11 15:55:14 +0100
+
+    am├®lioration du markdown
+
+ a_rendre/arendre.md | 207 +++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 206 insertions(+), 1 deletion(-)
+
+commit 0e61677f25996955d07274aed088ce385727ec81
+Author: Bld-26 <alpha.bld@eduge.ch>
+Date:   2026-11-11 15:51:09 +0100
+
+    ajoue du fichier commit.text
+
+ commits.txt | Bin 8058 -> 14208 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
 commit 70da3d1fb701b436e0d4bdd16c3bf299db146fa7
 Author: Bld-26 <alpha.bld@eduge.ch>
 Date:   2026-11-11 15:46:17 +0100
