@@ -9,3 +9,4 @@ ALPHA AMADOU
 Propriaitaire: Alpha Amadou
 Contributeur: Alexandre
 ## Detail du contenu ajouté
+Initiation du projet
