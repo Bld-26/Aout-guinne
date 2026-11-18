@@ -6,6 +6,6 @@ ALEXANDRE
 ALPHA AMADOU
 
 ## Rôles
-Propriaitaire: ALexandre  
-Contributeur: ALpha amadou
+Propriaitaire: Alpha Amadou
+Contributeur: Alexandre
 ## Detail du contenu ajouté
