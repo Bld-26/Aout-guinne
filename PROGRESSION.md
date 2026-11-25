@@ -19,8 +19,9 @@ Contributeur: Alexandre
 ## Detail du contenu ajouté
 
 **Aujourd'hui**
-Il a fait la page accès.html, avec un photo et une description  
-il va continuer à ajouter plus des photos
+- Il a fait la page accès.html, avec un photo et une description  
+- il va continuer à ajouter plus des photos
+- il a ajouté un sous-titre
 
 <!-- 
 1. Alexandre a créer le fichier PROGRESSION.md dans github
